@@ -1,5 +1,9 @@
 🍽️ Delish Bites - Restaurant Website <br><br>
 Delish Bites is a sleek, responsive, dark-themed restaurant website built using HTML, CSS, and JavaScript. It features a dynamic hero carousel, interactive menu cards, customer reviews, and a mobile-friendly navigation experience.
+<br>
+<br>
+📸 Preview : 
+(https://interenship-task-1.vercel.app/)
 
 <br/>
 🚀 Features
@@ -39,7 +43,7 @@ JavaScript (Vanilla JS for interactivity)
 
 <br/>
 📸 Preview
-(Insert screenshot or live demo link here if available)
+(https://interenship-task-1.vercel.app/)
 
 <br/>
 <br/>
